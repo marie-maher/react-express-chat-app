@@ -1,6 +1,4 @@
-# React Redux Starter Kit
-
-For when you just can't has all the set-up anymore, you just can't. 
+# Chat React  Express
 
 ## Instructions
 
@@ -8,4 +6,8 @@ For when you just can't has all the set-up anymore, you just can't.
 * `npm install`
 * `npm start`
 
-Write the codez.
+MongoDB on port 27017
+
+Express on port 3000
+
+To change the ports in server.js
